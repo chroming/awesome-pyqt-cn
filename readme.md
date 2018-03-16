@@ -46,4 +46,4 @@ pass
 pass
 
 [Chinese Icon]: https://cdn.rawgit.com/chroming/awesome-pyqt-cn/b62e2f4a/media/chinese.svg
-[English Icon]: https://cdn.rawgit.com/chroming/awesome-pyqt-cn/b62e2f4a/media/english.svg
+[English Icon]: https://raw.githubusercontent.com/chroming/awesome-pyqt-cn/master/media/english.svg
