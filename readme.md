@@ -7,7 +7,7 @@ PyQt/PySide 中文开发者必备资料合集，内容涵盖PyQt4/5, PySide, Qt�
 ### 入门
 
 + 教程
-  + [PyQt4教程](http://www.qaulau.com/books/PyQt4_Tutorial/index.html) 
+  + [PyQt4教程](http://www.qaulau.com/books/PyQt4_Tutorial/index.html) ![Chinese Icon]
   + [PyQt5 中文教程](https://www.gitbook.com/book/maicss/pyqt5/details) 
 + 界面
   + [使用 PyQT 作为 Python 的图形界面](http://hutaow.com/blog/2013/12/16/using-pyqt-as-graphical-interface-for-python/)
@@ -44,3 +44,6 @@ pass
 ### 完整程序
 
 pass
+
+[Chinese Icon] https://cdn.rawgit.com/chroming/awesome-pyqt-cn/b62e2f4a/media/chinese.svg
+[English Icon]https://cdn.rawgit.com/chroming/awesome-pyqt-cn/b62e2f4a/media/english.svg
