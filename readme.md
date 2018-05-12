@@ -36,4 +36,8 @@ pass
 
 ### 完整程序
 
-pass
++ [15 Minute Apps小应用合集](https://github.com/mfitzp/15-minute-apps)
++ [MusicPlayer 音乐播放器](https://github.com/HuberTRoy/MusicBox)
++ [fbmessenger](https://github.com/oconnor663/fbmessenger)
++ [youtube-dl-GUI](https://github.com/yasoob/youtube-dl-GUI)
+
