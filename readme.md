@@ -1,6 +1,6 @@
 # Awesome-PyQt-CN
 
-PyQt/PySide 中文开发者必备资料合集，内容涵盖PyQt4/5, PySide, Qt等。
+PyQt/PySide 中文开发者必备资料合集，内容涵盖PyQt4/5/PySide/Qt。
 
 ## 教程
 
@@ -30,10 +30,22 @@ PyQt/PySide 中文开发者必备资料合集，内容涵盖PyQt4/5, PySide, Qt�
   + [PyQt也玩扁平化设计QSS+无边框窗体实现拖动简易Demo](http://www.oschina.net/code/snippet_861229_37231)![Chinese][Chinese Icon]
   + [PyQt4——qss样式表的使用](http://bangz.me/archives/pyqt4-design-beautiful-ui-with-qss-stylesheet.html)![Chinese][Chinese Icon]
   + [Qt之图形（QPainter的基本绘图）](http://blog.csdn.net/liang19890820/article/details/51154216)![Chinese][Chinese Icon]
++ 资源列表
+  + [awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) Qt/QML 资源列表.
+  + [awesome-qt](https://github.com/JesseTG/awesome-qt) Qt资源列表.
+  + [material](https://github.com/rschiang/material) 用Qt/QML 写Material Design.
 
-## 软件包
+## 包
 
-pass
+### 美化
+
++ [QDarkStyleSheet](https://github.com/ColinDuquesnoy/QDarkStyleSheet) Qt黑暗模式
++ [qtmodern](https://github.com/gmarull/qtmodern) 让Qt界面更好看
+
+### 功能
+
++ [Qt.py](https://github.com/mottosso/Qt.py) 为PyQt4/5, PySide/PySide2 提供兼容层.
++ [quamash](https://github.com/harvimt/quamash) 整合Qt事件循环与asyncio.
 
 ## 优秀示例
 
